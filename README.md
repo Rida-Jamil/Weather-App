@@ -12,6 +12,6 @@ In the web app, you can check weather temperature of different cities.
 
 ## Screenshots
 
-![Alt text](./components/img/ss1.png?raw=true "Ontario temperature")
-![Alt text](./components/img/ss2.png?raw=true "Dubai temperature")
-![Alt text](./components/img/ss3.png?raw=true "New York temperature")
+![Ontario Temperature](./components/img/ss1.png)
+![Dubai temperature](./components/img/ss2.png?)
+![New York temperature](./components/img/ss3.png)
