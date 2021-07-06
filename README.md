@@ -12,6 +12,6 @@ In the web app, you can check weather temperature of different cities.
 
 ## Screenshots
 
-![Ontario Temperature](./components/img/ss1.png)
-![Dubai temperature](./components/img/ss2.png?)
-![New York temperature](./components/img/ss3.png)
+![Ontario Temperature](https://github.com/Rida-Jamil/Weather-App/blob/main/src/components/img/ss1.PNG)
+![Dubai temperature](https://github.com/Rida-Jamil/Weather-App/blob/main/src/components/img/ss2.PNG)
+![New York temperature](https://github.com/Rida-Jamil/Weather-App/blob/main/src/components/img/ss3.PNG)
