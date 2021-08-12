@@ -1,5 +1,6 @@
 {
   "name": "weatherapp",
+  "homepage": "https://rida-jamil.github.io/Weather-App/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,7 +38,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://rida-jamil.github.io/Weather-App/",
   "devDependencies": {
     "gh-pages": "^3.2.3"
   }
